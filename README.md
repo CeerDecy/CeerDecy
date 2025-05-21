@@ -6,11 +6,10 @@
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CeerDecy&theme=vue&hide_border=true&hide_title=true&count_private=true" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeerDecy&layout=compact&theme=vue&card_width=445&hide_border=true" />
-</div>
+</p>
 
 ---
 
